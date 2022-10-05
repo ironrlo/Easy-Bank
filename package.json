@@ -1,0 +1,15 @@
+{
+  "name": "task01",
+  "version": "1.0.0",
+  "description": "Front Mentor Activity",
+  "main": "index.js",
+  "author": "Rogelio Lopez",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "prettier": "^2.7.1"
+  }
+}
